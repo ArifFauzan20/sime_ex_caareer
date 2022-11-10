@@ -314,7 +314,8 @@
                 download=""
                 class="btn btn-danger text-light"
               >
-                Download Brochure Product Simetri
+                Download Brochure Product
+                <span class="notranslate"> Simetri </span>
               </a>
             </div>
           </div>
@@ -331,26 +332,28 @@
               </div>
 
               <p align="justify">
-                Simetri staffs and technicians have years of experience
-                installing panel at various types of building. Our quality of
-                work is based on the standards and regulations that are
-                implemented by both government agencies and international
-                organization for standardization. Therefore we guarantee a safe
-                and reliable electric power distribution system for buildings.
-                We offer a comprehensive range of service, installation,
-                training, maintenance, repair, and design consultation.
+                <span class="notranslate">Simetri </span> staffs and technicians
+                have years of experience installing panel at various types of
+                building. Our quality of work is based on the standards and
+                regulations that are implemented by both government agencies and
+                international organization for standardization. Therefore we
+                guarantee a safe and reliable electric power distribution system
+                for buildings. We offer a comprehensive range of service,
+                installation, training, maintenance, repair, and design
+                consultation.
                 <br />
-                <br />Simetri uses components from global brands such as
-                Schneider, ABB, Siemens, and GE. We use high quality tools and
-                equipment to ensure the high quality installation. We also
-                provide the best after sales service because we fully prioritize
-                customer satisfaction. We have a team of highly experienced
-                engineers and service technicians who are ready to assist
-                customers with all kind of switchboard related works. Simetri
-                provides 24 hours standby full time service. Simetri
-                switchboards are warranted for 1 year free of workmanship
-                defect. Should there be any questions or issues, you can contact
-                our company representatives through the contact page.
+                <br /><span class="notranslate"> Simetri </span> uses components
+                from global brands such as Schneider, ABB, Siemens, and GE. We
+                use high quality tools and equipment to ensure the high quality
+                installation. We also provide the best after sales service
+                because we fully prioritize customer satisfaction. We have a
+                team of highly experienced engineers and service technicians who
+                are ready to assist customers with all kind of switchboard
+                related works. Simetri provides 24 hours standby full time
+                service. Simetri switchboards are warranted for 1 year free of
+                workmanship defect. Should there be any questions or issues, you
+                can contact our company representatives through the contact
+                page.
               </p>
             </div>
           </div>

@@ -143,7 +143,7 @@ export default {
 
     onMounted(() => {
       axios
-        .get("https://admin.sinarmetrindo.co.id/index.php/api/show_career")
+        .get("https://admin-sinarmetrindo.airartikennels.co.id/api/show_career")
         .then((result) => {
           career.value = result.data;
         })
