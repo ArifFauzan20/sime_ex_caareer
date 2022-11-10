@@ -20,7 +20,10 @@
         <div class="row clearfix">
           <div class="col-lg-12">
             <div class="heading-block nobottomborder bottommargin-sm">
-              <h3>Simetri Hadir di Electric & Power Indonesia 2019</h3>
+              <h3>
+                <span class="notranslate text-dark">Simetri </span> Hadir di
+                Electric & Power Indonesia 2019
+              </h3>
             </div>
 
             <div class="divcenter center mb-4">
@@ -39,21 +42,25 @@
                 "
                 align="justify"
               >
-                Pada tanggal 11 -14 September 2019, Simetri menjadi bagian dari
+                Pada tanggal 11 -14 September 2019,
+                <span class="notranslate"> Simetri </span> menjadi bagian dari
                 Pameran Electric &amp; Power Indonesia 2019 di JIE Kemayoran
                 Electric &amp; Power Indonesia adalah Exhibition terbesar di
                 Asia Tenggara yang diadakan setahun sekali di Jakarta, yang
                 merupakan salah satu pasar yang dinamik di Asia Tenggara.
-                Simetri untuk pertama kalinya mengikuti exhibition ini dengan
-                harapan dapat memperluas jangkauan lebih besar lagi. Pameran ini
-                tidak hanya diikuti oleh perusahaan Indonesia saja, namun banyak
-                juga perusahaan mancanegara yang berpartisipasi dalam Pameran
-                yang berlangsung dari hari Rabu hingga Sabtu ini. Para Sales
-                Simetri dengan gigih mencoba menarik pengunjung exhibition untuk
-                memperlihatkan produk panel Simetri yaitu Matrix dan Sivacon.
-                Persiapan dan aktiftas yang terjadi di booth Simetri kami
-                kompilasikan dalam sebuah video yang kami upload di YouTube yang
-                bisa di cek di : <br />
+                <span class="notranslate"> Simetri </span> untuk pertama kalinya
+                mengikuti exhibition ini dengan harapan dapat memperluas
+                jangkauan lebih besar lagi. Pameran ini tidak hanya diikuti oleh
+                perusahaan Indonesia saja, namun banyak juga perusahaan
+                mancanegara yang berpartisipasi dalam Pameran yang berlangsung
+                dari hari Rabu hingga Sabtu ini. Para Sales
+                <span class="notranslate"> Simetri </span> dengan gigih mencoba
+                menarik pengunjung exhibition untuk memperlihatkan produk panel
+                <span class="notranslate"> Simetri </span> yaitu Matrix dan
+                Sivacon. Persiapan dan aktiftas yang terjadi di booth
+                <span class="notranslate"> Simetri </span> kami kompilasikan
+                dalam sebuah video yang kami upload di YouTube yang bisa di cek
+                di : <br />
                 <br />
                 <a href="https://youtu.be/OkKUa3bRs0s" target="_blank"
                   >https://youtu.be/OkKUa3bRs0s</a
@@ -78,7 +85,5 @@
 </template>
       
 <script>
-export default {
- 
-};
+export default {};
 </script>

@@ -12,7 +12,7 @@
   </section>
 
   <!-- content -->
-  <section id="content" translate="no">
+  <section id="content">
     <div class="content-wrap">
       <div>
         <!-- <div class="container clearfix">
@@ -25,7 +25,7 @@
               v-for="(show_certificate, index) in show_certificate"
               :key="index"
               class="col-md-4 col-sm-12 center"
-              translate="no"
+              
             >
               <v-lazy-image
                 :src="
@@ -37,7 +37,7 @@
               <h3
                 style="font-size: 18px"
                 class="m-4 notranslate"
-                translate="no"
+                
               >
                 {{ show_certificate.nama_certificate }}
               </h3>
@@ -59,10 +59,8 @@
                   style="border-radius: 2px"
                 />
               </div>
-              <div class="fbox-desc center" translate="no">
-                <h3 class="notranslate" translate="no">
-                  OHSAS CERTIFICATE ISO 45001:2018
-                </h3>
+              <div class="fbox-desc center">
+                <h3 class="notranslate">OHSAS CERTIFICATE ISO 45001:2018</h3>
               </div>
             </div>
           </div>
@@ -76,10 +74,8 @@
                   style="border-radius: 2px"
                 />
               </div>
-              <div class="fbox-desc center" translate="no">
-                <h3 translate="no" class="notranslate">
-                  SIVACON PARTNERSHIP CERTIFICATE
-                </h3>
+              <div class="fbox-desc center">
+                <h3 class="notranslate">SIVACON PARTNERSHIP CERTIFICATE</h3>
               </div>
             </div>
           </div>
@@ -93,10 +89,8 @@
                   style="border-radius: 2px"
                 />
               </div>
-              <div class="fbox-desc center" translate="no">
-                <h3 translate="no" class="notranslate">
-                  SIVACON AUDIT CERTIFICATE
-                </h3>
+              <div class="fbox-desc center">
+                <h3 class="notranslate">SIVACON AUDIT CERTIFICATE</h3>
               </div>
             </div>
           </div>
@@ -110,8 +104,8 @@
                   style="border-radius: 2px"
                 />
               </div>
-              <div class="fbox-desc center" translate="no">
-                <h3 translate="no" class="notranslate">
+              <div class="fbox-desc center">
+                <h3 class="notranslate">
                   SERTIFIKAT ASOSIASI PRODUSEN PERALATAN LISTRIK INDONESIA
                 </h3>
               </div>
@@ -127,8 +121,8 @@
                   style="border-radius: 2px"
                 />
               </div>
-              <div class="fbox-desc center" translate="no">
-                <h3 translate="no" class="notranslate">
+              <div class="fbox-desc center">
+                <h3 class="notranslate">
                   Quality Management Certificate ISO 9001:2015
                 </h3>
               </div>
@@ -144,8 +138,8 @@
                   style="border-radius: 2px"
                 />
               </div>
-              <div class="fbox-desc center" translate="no">
-                <h3 translate="no" class="notranslate">
+              <div class="fbox-desc center">
+                <h3 class="notranslate">
                   SERTIFIKAT SISTEM MANAJEMEN KESELAMATAN DAN KESEHATAN KERJA
                 </h3>
               </div>
@@ -161,8 +155,8 @@
                   style="border-radius: 2px"
                 />
               </div>
-              <div class="fbox-desc center" translate="no">
-                <h3 translate="no" class="notranslate">
+              <div class="fbox-desc center">
+                <h3 class="notranslate">
                   SERTIFIKAT BADAN USAHA JASA PELAKSANA KONSTRUKSI
                 </h3>
               </div>
@@ -178,8 +172,8 @@
                   style="border-radius: 2px"
                 />
               </div>
-              <div class="fbox-desc center" translate="no">
-                <h3 translate="no" class="notranslate">
+              <div class="fbox-desc center">
+                <h3 class="notranslate">
                   SERTIFIKAT STANDAR PT. SINAR METRINDO PERKASA
                 </h3>
               </div>
@@ -195,10 +189,8 @@
                   style="border-radius: 2px"
                 />
               </div>
-              <div class="fbox-desc center" translate="no">
-                <h3 translate="no" class="notranslate">
-                  NIB PT. SINAR METRINDO PERKASA
-                </h3>
+              <div class="fbox-desc center">
+                <h3 class="notranslate">NIB PT. SINAR METRINDO PERKASA</h3>
               </div>
             </div>
           </div>
@@ -212,8 +204,8 @@
                   style="border-radius: 2px"
                 />
               </div>
-              <div class="fbox-desc center" translate="no">
-                <h3 translate="no" class="notranslate">
+              <div class="fbox-desc center">
+                <h3 class="notranslate">
                   PT. SINAR METRINDO PERKASA_TKDN_52,08%
                 </h3>
               </div>

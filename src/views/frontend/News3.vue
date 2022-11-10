@@ -64,13 +64,14 @@
                 sehingga busbar yang terbuat dari tembaga lebih tahan terhadap
                 kerusakan.
                 <br /><br />
-                Simetri menggunakan busbar tembaga berkadar 99.9% yang
-                berkualitas baik yang mampu menurunkan jumlah energi listrik
-                yang terbuang percuma karena adanya&nbsp;<i>heat loss</i>.
-                Dengan begitu panel listrik dapat bekerja dengan optimal dan
-                biaya operasional mampu diminimalisir. Selain itu bsuibar yang
-                kami gunakan memenuhi standar yang ditetapkan organisasi atau
-                badan standarisasi. <br /><br />
+                <span class="notranslate">Simetri </span> menggunakan busbar
+                tembaga berkadar 99.9% yang berkualitas baik yang mampu
+                menurunkan jumlah energi listrik yang terbuang percuma karena
+                adanya&nbsp;<i>heat loss</i>. Dengan begitu panel listrik dapat
+                bekerja dengan optimal dan biaya operasional mampu
+                diminimalisir. Selain itu bsuibar yang kami gunakan memenuhi
+                standar yang ditetapkan organisasi atau badan standarisasi.
+                <br /><br />
                 Apabila panel dan busbar berada di kondisi lingkungan yang keras
                 maupun di lokasi yang memiliki suhu lingkungan yang tinggi
                 seperti di atas laut, pinggir pantai, dalam pabrik kimia, dan
@@ -80,8 +81,9 @@
                 Anda dapat konsultasi dengan&nbsp;<i>sales engineer</i
                 >&nbsp;kami untuk spesifikasi busbar yang anda inginkan yang
                 cocok dengan proyek anda.&nbsp;<i>Sales engineer</i>&nbsp;kami
-                dapat dihubungi di email sales@simetrigroup.co.id atau nomor
-                telepon (021) 58906959.
+                dapat dihubungi di email
+                <span class="notranslate"> sales@simetrigroup.co.id </span> atau
+                nomor telepon (021) 58906959.
               </p>
             </div>
           </div>
@@ -102,7 +104,5 @@
 </template>
       
 <script>
-export default {
- 
-};
+export default {};
 </script>

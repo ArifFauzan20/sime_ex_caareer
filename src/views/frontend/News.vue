@@ -32,7 +32,8 @@
                   <div class="entry-title">
                     <h4>
                       <a>
-                        Simetri Hadir di Electric &amp; Power Indonesia 2019</a
+                        <span class="notranslate">Simetri </span>
+                        Hadir di Electric &amp; Power Indonesia 2019</a
                       >
                     </h4>
                   </div>
@@ -45,7 +46,8 @@
                   <div class="entry-content">
                     <p align="justify">
                       <span
-                        >Pada tanggal 11 -14 September 2019, Simetri menjadi
+                        >Pada tanggal 11 -14 September 2019,
+                        <span class="notranslate"> Simetri </span> menjadi
                         bagian dari Pameran Electric &amp; Power Indonesia 2019
                         di JIE Kemayoran Electric &amp; Power Indonesia adalah
                         Exhibition terbesar di Asia Tenggara yang ...</span
