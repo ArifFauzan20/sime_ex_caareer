@@ -55,11 +55,12 @@
     <li class="nav-item fw-bold px-2">
       <a
         class="nav-link"
-        :class="activeClass('news')"
-        :href="$router.resolve({ name: 'simetri.news' }).href"
-        >News</a
+        :class="activeClass('csr')"
+        :href="$router.resolve({ name: 'simetri.csr' }).href"
+        >CSR</a
       >
     </li>
+
     <li class="nav-item fw-bold px-2">
       <a
         class="nav-link"
@@ -71,9 +72,9 @@
     <li class="nav-item fw-bold px-2">
       <a
         class="nav-link"
-        :class="activeClass('csr')"
-        :href="$router.resolve({ name: 'simetri.csr' }).href"
-        >CSR</a
+        :class="activeClass('news')"
+        :href="$router.resolve({ name: 'simetri.news' }).href"
+        >News</a
       >
     </li>
     <li class="nav-item fw-bold px-2">

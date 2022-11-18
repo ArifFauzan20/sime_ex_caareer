@@ -72,7 +72,10 @@
                       </div>
 
                       <a
-                        class="btn btn-hero btn-sm btn-rounded btn-noborder"
+                        class="
+                          btn btn-hero btn-sm btn-rounded btn-noborder
+                          notranslate
+                        "
                         style="background: rgb(8, 66, 124); color: #e8e8e8"
                         :href="'mailto:' + career.email_career"
                         >Apply Now</a
