@@ -221,6 +221,7 @@
         <div class="col_half">
           Copyrights &copy; {{ currentDate() }} All Rights Reserved by Sinar
           Metrindo Perkasa.<br />
+          Program Update {{ currentMonth() }}.<br/>
           <div class="copyright-links">
             <a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a>
           </div>
@@ -248,6 +249,13 @@ export default {
       const current = new Date();
       const date = `${current.getFullYear()}`;
       return date;
+    },
+    currentMonth() {
+      const current = new Date();
+      var months = ['Januari','Februari','Maret','April','Mei','Juni','Juli','Agustus','September','Oktoer','November','Desember']
+      const date =`${current.getMonth()}`;
+      const month = months[date];
+      return month;
     },
   },
 };

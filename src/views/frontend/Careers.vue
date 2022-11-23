@@ -146,7 +146,8 @@ export default {
 
     onMounted(() => {
       axios
-        .get("https://admin-sinarmetrindo.airartikennels.co.id/api/show_career")
+        // .get("https://admin-sinarmetrindo.airartikennels.co.id/api/show_career")
+        .get("http://127.0.0.1:8000/api/show_career")
         .then((result) => {
           career.value = result.data;
         })
